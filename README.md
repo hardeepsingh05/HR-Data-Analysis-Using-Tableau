@@ -6,18 +6,18 @@
 4. While visualization, I have taken out count of employees,count of Attrition, Attrition Rate, Active Employees, and their average ages using Scorecards.
 5. While try to find out the attrition in the organization based on the data, I have categorize the visuals in following basis:
    
-    --> Attrition by Gender (By getting the count of employees gender wise using a Lolipop chart)          
+       --> Attrition by Gender (By getting the count of employees gender wise using a Lolipop chart)          
+      
+       --> Department Wise Attrition (By using a Pie Chart in HR, R&D, and Sales Departments)
+      
+       --> Attrition by Age Group (Using a Bar Chart with variable bin size where Bars representing Age Group)
+      
+       --> Job Satisfaction Rating (Using a matrix representation of Rating from 1 to 4 of different Job Roles)
+      
+       --> Education Field Wise Attrition (Using horizontal Bar Chart to get the count of attritions based on education Field such as Medical, Enginerring, HR etc.)
+      
+       --> Attrition Rate by Gender for different Age group (Using Donut Chart which is showing count of genders in a particular Age Group, collectively in the center of Donut Chart and separately outside of the Donut Chart with their percentages respectively)
    
-    --> Department Wise Attrition (By using a Pie Chart in HR, R&D, and Sales Departments)
-   
-    --> Attrition by Age Group (Using a Bar Chart with variable bin size where Bars representing Age Group)
-   
-    --> Job Satisfaction Rating (Using a matrix representation of Rating from 1 to 4 of different Job Roles)
-   
-    --> Education Field Wise Attrition (Using horizontal Bar Chart to get the count of attritions based on education Field such as Medical, Enginerring, HR etc.)
-   
-    --> Attrition Rate by Gender for different Age group (Using Donut Chart which is showing count of genders in a particular Age Group, collectively in the center of Donut Chart and separately outside of the Donut Chart with their percentages respectively)
-
-    --> A filter based on Education Degree is also been placed on the Top-Right corner of the dashboard in order to get insights based on Educational Degrees of the Employees.
+       --> A filter based on Education Degree is also been placed on the Top-Right corner of the dashboard in order to get insights based on Educational Degrees of the Employees.
 
 7. So, in this way, by using the above factors, I have made this dashboard on HR Dataset.
