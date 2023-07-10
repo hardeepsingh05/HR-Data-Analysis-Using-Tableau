@@ -5,11 +5,17 @@
 3. Here is the link for the Dashboard which I made using this Human Resource (HR) Data: https://public.tableau.com/views/HRDataAnalysis_16731040685580/HRAnalyticsDashBoard?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 4. While visualization, I have taken out count of employees,count of Attrition, Attrition Rate, Active Employees, and their average ages.
 5. While try to find out the attrition in the organization based on the data, I have categorize the visuals in following basis:
+   
     --> Attrition by Gender
+   
     --> Department Wise Attrition
+   
     --> Attrition by Age Group
+   
     --> Job Satisfaction Rating
+   
     --> Education Field Wise Attrition
+   
     --> Attrition Rate by Gender for different Age group
 
-6. So, in this way, by using the above factors, I have made this dashboard on HR Dataset.
+7. So, in this way, by using the above factors, I have made this dashboard on HR Dataset.
